@@ -1,0 +1,75 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:arial;
+}
+h1{
+	text-align: right;
+}
+header
+{
+	background-image:url(images/bk1.jpg);
+	background-position:center;
+	background-size:cover;
+	height:700px;
+	
+}
+	.one img
+	{
+		float: left;
+		width: 100px;
+		height:auto;
+	}
+	h1
+	{
+		position:center;
+		display:inline-block;
+		padding: 10px 10px;
+	}
+	.two
+	{
+		display:inline-block;
+	}
+ul{
+	float:center;
+	list-style-type: none;
+	margin-top: 20px;
+	
+}
+ul li
+{
+	display:inline-block;	
+	border:2px;
+}
+ul li a
+{
+	text-decoration:none;
+	padding:5px 20px;
+	border: 1px solid black;
+	color:white;
+	
+}
+ul li a:hover
+{
+	background-color:black;
+	color:white;
+	
+}
+.main
+{
+	max-width:1200px;
+	margin:auto;
+}
+p
+{
+	display:inline;
+}
+.three
+{
+	float: right;
+	width: 35px;
+	height:auto;
+	display:inline-block;
+	margin-right:auto;
+	padding:35px;
+}
